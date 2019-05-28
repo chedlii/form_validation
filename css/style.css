@@ -1,0 +1,19 @@
+.border {
+  
+  border : solid 1px;
+  
+}
+
+
+.error {
+  
+  color : red ;
+  font-weight: bold;
+    
+}
+
+.has-error {
+  
+  border-color:red;
+  
+}
